@@ -5,7 +5,7 @@ import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 @Aspect
 public class LogAspect2 {
 //	com.yemensoft.model.service.AllClass.AllMethod and Param
